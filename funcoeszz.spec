@@ -2,10 +2,9 @@ Name: funcoeszz
 Version: 8.7
 Release: %mkrel 1
 Summary: Handy bash functions called zz*
-Summary(pt_BR): Funções úteis em bash chamadas zz*
-Group: Utilities
-Group(pt_BR): Utilitários
-Group(es): Utilitarios
+Summary(pt_BR): FunÃ§Ãµes Ãºteis em bash chamadas zz*
+Group: Text tools
+Group(pt_BR): Ferramentas de texto
 License: GPL
 URL: http://funcoeszz.net/
 Source0: http://funcoeszz.net/funcoeszz
@@ -18,9 +17,9 @@ Handy bash functions called zz*, to deal with files, internet dictionary
 queries, freshmeat, and others.
     
 %description -l pt_BR
-Funções úteis em bash de aplicações diversificadas como manipular arquivos,
-fazer cálculos e fazer consultas na internet em dicionários e tradutores, bem
-como cotações, dicas-l, freshmeat, detran, imposto de renda, cep, etc.
+FunÃ§Ãµes Ãºteis em bash de aplicaÃ§Ãµes diversificadas como manipular arquivos,
+fazer cÃ¡lculos e fazer consultas na internet em dicionÃ¡rios e tradutores,
+bem como cotaÃ§Ãµes, dicas-l, freshmeat, detran, imposto de renda, cep, etc.
 
 %install
 install -d    %{buildroot}%{_bindir}
