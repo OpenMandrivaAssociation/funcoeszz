@@ -1,6 +1,6 @@
 Name: funcoeszz
 Version: 10.12	
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: Handy bash functions called zz*
 Summary(pt_BR): Funções úteis em bash chamadas zz*
 Group: Text tools
