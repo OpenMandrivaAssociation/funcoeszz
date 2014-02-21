@@ -1,2 +1,2 @@
 #!/bin/sh
-funcoeszz `basename $0` $*
+./funcoeszz `basename $0` $*
