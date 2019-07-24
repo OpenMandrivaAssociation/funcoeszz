@@ -1,7 +1,7 @@
 Summary:	Handy bash functions called zz*
 Name:		funcoeszz
-Version:	13.2
-Release:	2
+Version:	15.5
+Release:	1
 License:	GPLv2+
 Group:		Text tools
 Url:		http://funcoeszz.net/
