@@ -4,7 +4,7 @@ Version:	21.1
 Release:	1
 License:	GPLv2+
 Group:		Text tools
-Url:		http://funcoeszz.net/
+Url:		https://funcoeszz.net/
 Source0:	http://funcoeszz.net/funcoeszz
 Source1:	zzwrapper
 Requires:	lynx
